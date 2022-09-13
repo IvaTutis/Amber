@@ -31,8 +31,6 @@ public class Lematizator {
      * @param tokeni
      * @param posTags
      * @return
-     * @throws InvalidFormatException
-     * @throws IOException
      */
     public String[] lematiziraj(String[] tokeni, String[] posTags){
 
