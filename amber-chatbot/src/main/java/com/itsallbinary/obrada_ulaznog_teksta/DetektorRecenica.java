@@ -26,8 +26,6 @@ public class DetektorRecenica {
      *
      * @param tekst
      * @return
-     * @throws FileNotFoundException
-     * @throws IOException
      */
     public String[] razlomiTesktNaRecenice(String tekst) throws FileNotFoundException, IOException {
 
