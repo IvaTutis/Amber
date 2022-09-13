@@ -29,7 +29,6 @@ public class POS_Tagger {
      *
      * @param tokeni
      * @return
-     * @throws IOException
      */
     public String[] tag(String[] tokeni) throws IOException {
 
