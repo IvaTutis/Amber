@@ -26,8 +26,6 @@ public class Tokenizer {
      *
      * @param recenica
      * @return
-     * @throws FileNotFoundException
-     * @throws IOException
      */
     public String[] tokeniziraj(String recenica) throws FileNotFoundException, IOException {
 
